@@ -1,0 +1,3 @@
+include setup.py setup.cfg
+include *.ini .coveragerc
+include README README.md

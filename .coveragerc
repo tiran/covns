@@ -1,0 +1,14 @@
+[run]
+branch = True
+source =
+    covns
+    tests
+
+[paths]
+source =
+   src/covns
+   .tox/*/lib/python*/site-packages/covns
+
+[report]
+ignore_errors = False
+precision = 1
